@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+</div> 
+
 <!--
 **Moralts/Moralts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
