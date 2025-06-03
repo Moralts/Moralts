@@ -37,8 +37,6 @@
 
 </div>
 
-<img height="600" src="https://raw.githubusercontent.com/Moralts/Moralts/refs/heads/main/github-metrics.svg" />
-
 ---
 
 <div align="center">
