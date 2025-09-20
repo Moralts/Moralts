@@ -6,6 +6,8 @@
 
 平平无奇的杂牌学生
 
+臭打工的游戏服务器后勤 qwq
+
 ---
 
 
@@ -15,7 +17,7 @@
 
 💻 Minecraft 服务器插件插件汉化工作
 
-👥 BukuTeam 发起者
+👥 LightingTeam 发起者
 
 <div align="center">
 
