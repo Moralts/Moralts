@@ -33,9 +33,9 @@
 
 ### 📊 GitHub统计
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Moralts&show_icons=true&theme=default&hide_border=true" />
+<img height="150" src="https://github-readme-stats-coral-beta-45.vercel.app/api?username=Moralts&show_icons=true&theme=default&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moralts&layout=compact&theme=default&hide_border=true" />
+<img height="150" src="https://github-readme-stats-coral-beta-45.vercel.app/api/top-langs/?username=Moralts&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
