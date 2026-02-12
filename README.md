@@ -17,7 +17,7 @@
 
 💻 Minecraft 服务器插件插件汉化工作
 
-👥 LightingTeam 发起者
+👥 Prime-Light 发起者
 
 <div align="center">
 
