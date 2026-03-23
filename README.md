@@ -4,7 +4,7 @@
 
 ### 🌟 关于我
 
-平平无奇的杂牌学生
+有开发野心的初中生
 
 臭打工的游戏服务器后勤 qwq
 
@@ -15,9 +15,7 @@
 
 👀 普普通通的学生
 
-💻 Minecraft 服务器插件插件汉化工作
-
-👥 Prime-Light 发起者
+👥 Prime-Light 团队发起者
 
 <div align="center">
 
