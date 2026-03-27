@@ -29,7 +29,9 @@
 
 <div align="center">
 
-### 📊 GitHub统计
+### 📊 我的统计
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36452)](https://codetime.dev)
 
 <img height="150" src="https://github-readme-stats-coral-beta-45.vercel.app/api?username=Moralts&show_icons=true&theme=default&hide_border=true" />
 
