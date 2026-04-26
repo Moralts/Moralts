@@ -11,7 +11,7 @@
 ### 📫 联系方式
 
 [![Email](https://img.shields.io/badge/Email-instars2233@outlook.com-blue?style=flat-square)](mailto:moralts@outlook.com)
-![QQ](https://img.shields.io/badge/QQ-3161826691-12B7F5?style=flat-square&logo=tencentqq)
+![QQ](https://img.shields.io/badge/QQ-3161826691(注明来意)-12B7F5?style=flat-square&logo=tencentqq)
 
 </div>
 
