@@ -4,24 +4,13 @@
 
 ### 🌟 关于我
 
-有开发野心的初中生
-
-臭打工的游戏服务器后勤 qwq
-
----
-
-
-### 🏆 我的成就
-
-👀 普普通通的学生
-
-👥 Prime-Light 团队发起者
+有梦想的初中生
 
 <div align="center">
 
 ### 📫 联系方式
 
-[![Email](https://img.shields.io/badge/Email-instars2233@outlook.com-blue?style=flat-square)](mailto:instars2233@outlook.com)
+[![Email](https://img.shields.io/badge/Email-instars2233@outlook.com-blue?style=flat-square)](mailto:moralts@outlook.com)
 ![QQ](https://img.shields.io/badge/QQ-3161826691-12B7F5?style=flat-square&logo=tencentqq)
 
 </div>
